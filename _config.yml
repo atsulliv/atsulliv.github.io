@@ -1,3 +1,30 @@
 theme: jekyll-theme-minimal
 title: Aidan's homepage
 description: Bookmark this to keep an eye on my project updates!
+github_username: atsulliv
+linkedin_username: aidan-sullivan-25209524a
+show_downloads: true
+
+
+---
+layout: default
+---
+
+## Hi, I'm Aidan 👋
+
+I'm a Stanford EE student focused on **hardware systems, VLSI, and semiconductors**.
+I grew up in rural Mississippi and am passionate about building technology that expands access and opportunity.
+
+### Interests
+- VLSI & IC Design
+- Hardware accelerators
+- Semiconductor manufacturing
+- AI hardware tools
+
+### Projects
+- **[Project Name]** – short, technical one-liner
+- **[Another Project]** – what problem you solved
+
+### Contact
+- GitHub: [@aidansullivan](https://github.com/aidansullivan)
+- LinkedIn: …
