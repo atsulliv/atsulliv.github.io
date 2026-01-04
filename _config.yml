@@ -14,12 +14,6 @@ linkedin_username: aidan-sullivan-25209524a
 
 show_downloads: true
 
-plugins:
-  - jekyll-seo-tag
-
-markdown: kramdown
-permalink: pretty
-
 ---
 layout: default
 title: About
