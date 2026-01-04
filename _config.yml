@@ -16,9 +16,8 @@ linkedin_username: aidan-sullivan-25209524a
 
 # Repo list
 # List repos that you would like to appear on the homepage here
-repos:
-- name: Link 1
-  description: link to my profile
-  url: https://github.com/atsulliv
+header_pages:
+  - projects.md
+
 
 
