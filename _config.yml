@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Aidan Sullivan's Portfolio 
+title: Aidan Sullivan 
 
 description: > 
   Welcome to my portfolio :)
@@ -18,5 +18,11 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
-
 permalink: pretty
+
+---
+layout: default
+title: About
+---
+More detail about my background and interests.
+
