@@ -10,7 +10,7 @@
 - **[Circuits I and II: AC-DC Converter + Audio Amplifier](https://github.com/atsulliv/PCB-AudioAmplifier)**  
   Built on two perfboards (one for converter, one for amplifier) and designed a PCB integrating both.
 
-- **[LED Board](https://github.com/atsulliv/LED-Board)**
+- **[LED Board](https://github.com/atsulliv/LED-Board)**  
   Summer project building an LED board from scratch. Programmable to fit any design as you wish, with a simulation environment for verification.
 
 ### Research 🔬
