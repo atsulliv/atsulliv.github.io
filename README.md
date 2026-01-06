@@ -18,7 +18,6 @@
 ### In Progress...
 - Musical Glove Project
 - Musical Arrangment File Management Tool
----
 
 ## Links
 - [GitHub](https://github.com/atsulliv)
