@@ -13,6 +13,9 @@
 - **[LED Board](https://github.com/atsulliv/LED-Board)**  
   Summer project building an LED board from scratch. Programmable to fit any design as you wish, with a simulation environment for verification.
 
+- **[FPGA Music Synthesizer](https://github.com/atsulliv/EE108-FPGA-Synthesizer)**  
+  Part of the EE 108 Final Project. Edit melodies using a ROM LUT, with support for harmonics, dynamics (ADSR envelope), stereo, etc.
+
 ### Research 🔬
 - **[Biosensor FET](https://github.com/atsulliv/IV_processing)**  
   Device-level modeling and analysis of FET-based biosensors. Also includes a presentation and powerpoint explaining my research.
