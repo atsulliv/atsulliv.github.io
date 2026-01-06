@@ -5,7 +5,7 @@
 
 ### Hardware/Systems 💻
 - **[From the Ground Up: Blackjack Trainer](https://github.com/atsulliv/107e-blackjacktrainer)**  
-  Building bare-metal blackjack card counting game using all self-written modules. (No OS or standard library support.)
+  Building bare-metal blackjack card counting game using all self-written modules (no OS or standard library support).
 
 - **[Circuits I and II: AC-DC Converter + Audio Amplifier](https://github.com/atsulliv/PCB-AudioAmplifier)**
   Built on two perfboards (one for converter, one for amplifier) and designed a PCB integrating both.
