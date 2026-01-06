@@ -1,5 +1,8 @@
 # Welcome to my page!
 
+## Links
+- [GitHub](https://github.com/atsulliv)
+- [LinkedIn](https://www.linkedin.com/in/aidan-sullivan-25209524a/)
 
 ## Projects
 
@@ -23,7 +26,3 @@
 ### In Progress...
 - Musical Glove Project
 - Musical Arrangment File Management Tool
-
-## Links
-- [GitHub](https://github.com/atsulliv)
-- [LinkedIn](https://www.linkedin.com/in/aidan-sullivan-25209524a/)
