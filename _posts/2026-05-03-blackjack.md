@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Building a Bare-Metal PWM Driver"
-project: hardware-pwm
-date: 2026-07-23
-permalink: /blog/hardware-pwm/
+title: "Embedded Systems Project: Blackjack From the Ground Up"
+project: blackjack
+date: 2026-05-03
+permalink: /blog/blackjack/
 ---

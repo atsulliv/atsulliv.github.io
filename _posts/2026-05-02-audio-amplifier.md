@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Building a Bare-Metal PWM Driver"
-project: hardware-pwm
-date: 2026-07-23
-permalink: /blog/hardware-pwm/
+title: "Building an Audio Amplifier"
+project: audio-amplifier
+date: 2026-05-02
+permalink: /blog/audio-amplifier/
 ---
