@@ -3,7 +3,7 @@
 ## Links
 - [GitHub](https://github.com/atsulliv)
 - [LinkedIn](https://www.linkedin.com/in/aidan-sullivan-25209524a/)
-- [Blog](/blog/)
+Blogs Coming Soon
 
 ## Projects
 
