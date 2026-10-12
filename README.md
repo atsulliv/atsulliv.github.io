@@ -3,7 +3,7 @@
 ## Links
 - [GitHub](https://github.com/atsulliv)
 - [LinkedIn](https://www.linkedin.com/in/aidan-sullivan-25209524a/)
-Blogs Coming Soon
+- [Project-Blogs](/blog/)
 
 ## Projects
 
@@ -18,13 +18,12 @@ Blogs Coming Soon
   Summer project building an LED board from scratch. Programmable to fit any design as you wish, with a simulation environment for verification.
 
 - **[FPGA Music Synthesizer](https://github.com/atsulliv/FPGA-Music-Synthesizer)**  
-  Part of the EE 108 Final Project. Edit melodies using a ROM LUT, with support for harmonics, dynamics (ADSR envelope), stereo, etc.
+  Part of the EE 108 Final Project. Edit melodies using an LUT, with support for harmonics, dynamics (ADSR envelope), stereo, etc.
 
 ### Research 🔬
 - **[Biosensor FET](https://github.com/atsulliv/IV_processing)**  
   Device-level modeling and analysis of FET-based biosensors. Also includes a presentation and powerpoint explaining my research.
 
 ### In Progress...
-- Musical Glove Project
-- remote-hug-IoT 🥰
+-  remote-hug-IoT
 -  Musical Arrangment File Management Tool

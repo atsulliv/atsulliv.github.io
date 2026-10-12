@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 title: "Verilog Music Player, Waveform Viewer"
 project: music-player
 date: 2026-05-01

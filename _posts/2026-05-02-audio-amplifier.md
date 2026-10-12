@@ -1,5 +1,6 @@
 ---
 layout: default
+published: false
 title: "Building an Audio Amplifier"
 project: audio-amplifier
 date: 2026-05-02
